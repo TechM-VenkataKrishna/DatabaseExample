@@ -1,0 +1,16 @@
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\SQLite-net.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.EmployeeScreen.xaml.g.cs
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.dll
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.dll.mdb
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.dll.mdb
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.dll.mdb
+C:\Users\Madhavi\documents\visual studio 2015\Projects\DatabaseExample\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.dll.mdb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:DatabaseExample="clr-namespace:DatabaseExample;assembly=DatabaseExample"
+             x:Class="DatabaseExample.EmployeeScreen">
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style  x:Key="btnStyle"  TargetType="Button">
+        <Setter Property="HorizontalOptions" Value="Center" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="Black" />
+        <Setter Property="BorderColor" Value="Lime" />
+        <Setter Property="BorderRadius" Value="20" />
+        <Setter Property="BorderWidth" Value="5" />
+        <Setter Property="WidthRequest" Value="200" />
+        <Setter Property="TextColor" Value="Teal" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <StackLayout Orientation="Vertical" >
+
+    <Button Text="Insert" Style="{StaticResource btnStyle}" Clicked="Insert" ></Button>
+
+    <Button Text="Get" Style="{StaticResource btnStyle}" Clicked="Get"  ></Button>
+
+
+    <ListView  x:Name="listView" HasUnevenRows="True">
+      <ListView.ItemTemplate >
+        <DataTemplate >
+          <ViewCell>
+            <StackLayout VerticalOptions="FillAndExpand" BackgroundColor="White" Orientation="Vertical" Spacing="10" Padding="20,10,10,10">
+              <Label Text = "{Binding EmployeeId}" FontSize="22" TextColor="#a9a9a9" FontAttributes="Bold" />
+              <Label Text = "{Binding EmployeeName}" FontSize="18" TextColor="#00ff00" FontAttributes="Bold" />
+              <Button Text="Delete" CommandParameter="{Binding EmployeeSlNo}" Style="{StaticResource btnStyle}" Clicked="Delete"  ></Button>
+
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+
+    </ListView>
+
+  </StackLayout>
+  
+</ContentPage>
